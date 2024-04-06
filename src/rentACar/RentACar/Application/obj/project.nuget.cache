@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b1GB3+1T+Nu5JRmT1xP1R32+9Wn85NaMWEab0wDWDPXazoQgZFDF69g/qRSj5vlNy9SkYQE9PY07jnP2RDqn4A==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Furkan Şahin\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Furkan Şahin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Furkan Şahin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
