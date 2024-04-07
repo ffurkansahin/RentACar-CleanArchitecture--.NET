@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\EfRepositoryBase.cs",
               "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Repositories\\EfRepositoryBase.cs",
               "RelativeToolTip": "Core.Persistence\\Repositories\\EfRepositoryBase.cs",
-              "ViewState": "AQIAAPYAAAAAAAAAAAA1wCgBAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T06:44:52.472Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "Core.Persistence\\Repositories\\IEntityTimestamps.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T06:43:22.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T06:43:22.383Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Core.Persistence\\Repositories\\Entity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T06:42:12.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T06:42:12.427Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
               "ViewState": "AQIAAD4AAAAAAAAAAAAwwEkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T06:31:56.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T06:31:56.89Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "Core.Persistence\\Repositories\\IRepository.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAowCMAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T06:22:56.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T06:22:56.832Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "Core.Persistence\\Repositories\\IAsyncRepository.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAwwCMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T06:22:48.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T06:22:48.943Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "Core.Persistence\\Dynamic\\DynamicQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T06:22:32.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T06:22:32.833Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "Core.Persistence\\Dynamic\\Sort.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T06:20:45.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T06:20:45.014Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "Core.Persistence\\Dynamic\\Filter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T06:16:12.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T06:16:12.516Z"
             }
           ]
         }

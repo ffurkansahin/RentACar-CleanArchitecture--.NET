@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3D672CA-B4FC-411A-93C1-E00221CC83B1}|Application\\Application.csproj|d:\\visual studio code projects\\architecturedemo\\src\\rentacar\\rentacar\\application\\services\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3D672CA-B4FC-411A-93C1-E00221CC83B1}|Application\\Application.csproj|solutionrelative:application\\services\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3D672CA-B4FC-411A-93C1-E00221CC83B1}|Application\\Application.csproj|d:\\visual studio code projects\\architecturedemo\\src\\rentacar\\rentacar\\application\\features\\brands\\commands\\create\\createbrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3D672CA-B4FC-411A-93C1-E00221CC83B1}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\commands\\create\\createbrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADF052C5-3497-4727-BEEB-464FE653D19F}|WebApi\\WebApi.csproj|d:\\visual studio code projects\\architecturedemo\\src\\rentacar\\rentacar\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADF052C5-3497-4727-BEEB-464FE653D19F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3D672CA-B4FC-411A-93C1-E00221CC83B1}|Application\\Application.csproj|d:\\visual studio code projects\\architecturedemo\\src\\rentacar\\rentacar\\application\\applicationserviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3D672CA-B4FC-411A-93C1-E00221CC83B1}|Application\\Application.csproj|solutionrelative:application\\applicationserviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADF052C5-3497-4727-BEEB-464FE653D19F}|WebApi\\WebApi.csproj|d:\\visual studio code projects\\architecturedemo\\src\\rentacar\\rentacar\\webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADF052C5-3497-4727-BEEB-464FE653D19F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADF052C5-3497-4727-BEEB-464FE653D19F}|WebApi\\WebApi.csproj|d:\\visual studio code projects\\architecturedemo\\src\\rentacar\\rentacar\\webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADF052C5-3497-4727-BEEB-464FE653D19F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3D672CA-B4FC-411A-93C1-E00221CC83B1}|Application\\Application.csproj|d:\\visual studio code projects\\architecturedemo\\src\\rentacar\\rentacar\\application\\features\\brands\\profiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D672CA-B4FC-411A-93C1-E00221CC83B1}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\profiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3D672CA-B4FC-411A-93C1-E00221CC83B1}|Application\\Application.csproj|d:\\visual studio code projects\\architecturedemo\\src\\rentacar\\rentacar\\application\\features\\brands\\commands\\create\\createdbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3D672CA-B4FC-411A-93C1-E00221CC83B1}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\commands\\create\\createdbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3D672CA-B4FC-411A-93C1-E00221CC83B1}|Application\\Application.csproj|d:\\visual studio code projects\\architecturedemo\\src\\rentacar\\rentacar\\application\\applicationserviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D672CA-B4FC-411A-93C1-E00221CC83B1}|Application\\Application.csproj|solutionrelative:application\\applicationserviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{279E0A2E-5184-4133-9C1F-53CC9A328A07}|Domain\\Domain.csproj|d:\\visual studio code projects\\architecturedemo\\src\\rentacar\\rentacar\\domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{279E0A2E-5184-4133-9C1F-53CC9A328A07}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADF052C5-3497-4727-BEEB-464FE653D19F}|WebApi\\WebApi.csproj|d:\\visual studio code projects\\architecturedemo\\src\\rentacar\\rentacar\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF052C5-3497-4727-BEEB-464FE653D19F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF50FD7-D6DC-4C1C-A035-70A17C1E5EF5}|Persistence\\Persistence.csproj|d:\\visual studio code projects\\architecturedemo\\src\\rentacar\\rentacar\\persistence\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF50FD7-D6DC-4C1C-A035-70A17C1E5EF5}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,19 +34,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IBrandRepository.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Services\\Repositories\\IBrandRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Repositories\\IBrandRepository.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Services\\Repositories\\IBrandRepository.cs",
-              "RelativeToolTip": "Application\\Services\\Repositories\\IBrandRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "DocumentIndex": 2,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Profiles\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Brands\\Profiles\\MappingProfiles.cs",
+              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Profiles\\MappingProfiles.cs",
+              "RelativeToolTip": "Application\\Features\\Brands\\Profiles\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T19:23:21.711Z",
+              "WhenOpened": "2024-04-07T10:39:55.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\BrandsController.cs",
+              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\BrandsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:36:51.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateBrandCommand.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
+              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:30:11.018Z",
               "EditorCaption": ""
             },
             {
@@ -65,81 +83,36 @@
               "RelativeDocumentMoniker": "Application\\ApplicationServiceRegistiration.cs",
               "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Application\\ApplicationServiceRegistiration.cs",
               "RelativeToolTip": "Application\\ApplicationServiceRegistiration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T19:00:26.198Z"
+              "WhenOpened": "2024-04-07T10:16:56.421Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "PersistenceServiceRegistration.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Persistence\\PersistenceServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Persistence\\PersistenceServiceRegistration.cs",
+              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Persistence\\PersistenceServiceRegistration.cs",
+              "RelativeToolTip": "Persistence\\PersistenceServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:12:29.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "WebApi\\Program.cs",
               "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\Program.cs",
               "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:58:41.073Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\BaseController.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\BaseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:52:55.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BrandsController.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\Controllers\\BrandsController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\BrandsController.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\Controllers\\BrandsController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\BrandsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:48:39.276Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreatedBrandResponse.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Commands\\Create\\CreatedBrandResponse.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Brands\\Commands\\Create\\CreatedBrandResponse.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Commands\\Create\\CreatedBrandResponse.cs",
-              "RelativeToolTip": "Application\\Features\\Brands\\Commands\\Create\\CreatedBrandResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:39:12.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateBrandCommand.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
-              "RelativeToolTip": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:33:49.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Domain\\Entities\\Brand.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Brand.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Domain\\Entities\\Brand.cs",
-              "RelativeToolTip": "Domain\\Entities\\Brand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:10:28.241Z"
+              "WhenOpened": "2024-04-06T18:58:41.073Z",
+              "EditorCaption": ""
             }
           ]
         }

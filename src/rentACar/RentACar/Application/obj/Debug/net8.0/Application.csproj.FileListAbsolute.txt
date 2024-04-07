@@ -10,3 +10,9 @@ D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Applicatio
 D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Application\obj\Debug\net8.0\refint\Application.dll
 D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Application\obj\Debug\net8.0\Application.pdb
 D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net8.0\Core.Persistence.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net8.0\Domain.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net8.0\Domain.pdb
+D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net8.0\Core.Persistence.pdb
+D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
