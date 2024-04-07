@@ -15,4 +15,10 @@
     <ProjectReference Include="..\Persistence\Persistence.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="Core.Application">
+      <HintPath>..\..\..\corePackages\Core.Persistence\Core.Application\bin\Debug\net8.0\Core.Application.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

@@ -18,3 +18,5 @@ D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Persistenc
 D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Persistence\obj\Debug\net8.0\refint\Persistence.dll
 D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Persistence\obj\Debug\net8.0\Persistence.pdb
 D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Persistence\bin\Debug\net8.0\Core.Application.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Persistence\bin\Debug\net8.0\Core.Application.pdb

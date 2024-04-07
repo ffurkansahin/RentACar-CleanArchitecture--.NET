@@ -80,3 +80,6 @@ D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\WebApi\bin
 D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Persistence.pdb
 D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Domain.pdb
 D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Core.Persistence.pdb
+D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Core.Application.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Core.Application.pdb

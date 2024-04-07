@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|d:\\visual studio code projects\\architecturedemo\\src\\corepackages\\core.persistence\\core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3D771F-3B4F-41EB-963C-60DE145B65B6}|Core.Persistence\\Core.Persistence.csproj|d:\\visual studio code projects\\architecturedemo\\src\\corepackages\\core.persistence\\core.persistence\\paging\\basepageablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3D771F-3B4F-41EB-963C-60DE145B65B6}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\basepageablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3D771F-3B4F-41EB-963C-60DE145B65B6}|Core.Persistence\\Core.Persistence.csproj|d:\\visual studio code projects\\architecturedemo\\src\\corepackages\\core.persistence\\core.persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3D771F-3B4F-41EB-963C-60DE145B65B6}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|d:\\visual studio code projects\\architecturedemo\\src\\corepackages\\core.persistence\\core.application\\requests\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\requests\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E3D771F-3B4F-41EB-963C-60DE145B65B6}|Core.Persistence\\Core.Persistence.csproj|d:\\visual studio code projects\\architecturedemo\\src\\corepackages\\core.persistence\\core.persistence\\repositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E3D771F-3B4F-41EB-963C-60DE145B65B6}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,11 +62,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paginate.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Paging\\Paginate.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\Paginate.cs",
+              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Paging\\Paginate.cs",
+              "RelativeToolTip": "Core.Persistence\\Paging\\Paginate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:54:11.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasePageableModel.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Paging\\BasePageableModel.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\BasePageableModel.cs",
+              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Paging\\BasePageableModel.cs",
+              "RelativeToolTip": "Core.Persistence\\Paging\\BasePageableModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:53:24.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GetListResponse.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Application\\Responses\\GetListResponse.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Responses\\GetListResponse.cs",
+              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Application\\Responses\\GetListResponse.cs",
+              "RelativeToolTip": "Core.Application\\Responses\\GetListResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:50:46.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageRequest.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Application\\Requests\\PageRequest.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Requests\\PageRequest.cs",
+              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Application\\Requests\\PageRequest.cs",
+              "RelativeToolTip": "Core.Application\\Requests\\PageRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:47:16.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EfRepositoryBase.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Repositories\\EfRepositoryBase.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\EfRepositoryBase.cs",
@@ -63,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "IEntityTimestamps.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Repositories\\IEntityTimestamps.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IEntityTimestamps.cs",
@@ -75,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Entity.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Repositories\\Entity.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\Entity.cs",
@@ -87,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "IQueryableDynamicFilterExtensions.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
@@ -99,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IRepository.cs",
@@ -111,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IAsyncRepository.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Repositories\\IAsyncRepository.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IAsyncRepository.cs",
@@ -123,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "DynamicQuery.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Dynamic\\DynamicQuery.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\DynamicQuery.cs",
@@ -135,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Sort.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Dynamic\\Sort.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\Sort.cs",
@@ -147,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Filter.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Dynamic\\Filter.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\Filter.cs",
