@@ -67,8 +67,7 @@
               "RelativeToolTip": "Application\\ApplicationServiceRegistiration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T19:00:26.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T19:00:26.198Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "WebApi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:58:41.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T18:58:41.073Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "WebApi\\Controllers\\BaseController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:52:55.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T18:52:55.177Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "WebApi\\Controllers\\BrandsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:48:39.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T18:48:39.276Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "Application\\Features\\Brands\\Commands\\Create\\CreatedBrandResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:39:12.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T18:39:12.343Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:33:49.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T18:33:49.483Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "Domain\\Entities\\Brand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:10:28.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T18:10:28.241Z"
             }
           ]
         }
