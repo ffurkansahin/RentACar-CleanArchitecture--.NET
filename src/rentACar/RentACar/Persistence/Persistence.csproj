@@ -20,7 +20,7 @@
 
   <ItemGroup>
     <Reference Include="Core.Persistence">
-      <HintPath>..\..\..\corePackages\Core.Persistence\Core.Persistence\bin\Debug\net8.0\Core.Persistence.dll</HintPath>
+      <HintPath>..\..\..\coreProject\Core.Persistence\Core.Persistence\bin\Debug\net8.0\Core.Persistence.dll</HintPath>
     </Reference>
   </ItemGroup>
 

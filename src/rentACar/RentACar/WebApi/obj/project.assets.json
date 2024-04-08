@@ -4704,19 +4704,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Furkan Şahin\\.nuget\\packages\\": {}
+    "C:\\Users\\HUAWEİ\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
-      "packagesPath": "C:\\Users\\Furkan Şahin\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\obj\\",
+      "projectPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\HUAWEİ\\.nuget\\packages\\",
+      "outputPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Furkan Şahin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HUAWEİ\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4730,11 +4730,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Application.csproj": {
-              "projectPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Application.csproj"
+            "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Application\\Application.csproj": {
+              "projectPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Application\\Application.csproj"
             },
-            "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj": {
-              "projectPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj"
+            "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj": {
+              "projectPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj"
             }
           }
         }

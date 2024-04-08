@@ -7055,19 +7055,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Furkan Şahin\\.nuget\\packages\\": {}
+    "C:\\Users\\HUAWEİ\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Application\\Core.Application.csproj",
+      "projectUniqueName": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Application\\Core.Application.csproj",
       "projectName": "Core.Application",
-      "projectPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Application\\Core.Application.csproj",
-      "packagesPath": "C:\\Users\\Furkan Şahin\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Application\\obj\\",
+      "projectPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Application\\Core.Application.csproj",
+      "packagesPath": "C:\\Users\\HUAWEİ\\.nuget\\packages\\",
+      "outputPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Furkan Şahin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HUAWEİ\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7081,8 +7081,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Core.Persistence.csproj": {
-              "projectPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Core.Persistence.csproj"
+            "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Persistence\\Core.Persistence.csproj": {
+              "projectPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Persistence\\Core.Persistence.csproj"
             }
           }
         }

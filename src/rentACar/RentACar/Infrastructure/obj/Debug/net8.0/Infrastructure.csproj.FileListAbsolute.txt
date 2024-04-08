@@ -10,3 +10,15 @@ D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Infrastruc
 D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 D:\Visual Studio Code Projects\ArchitectureDemo\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

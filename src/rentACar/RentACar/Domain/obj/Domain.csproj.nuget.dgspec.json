@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Domain\\Domain.csproj": {}
+    "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Domain\\Domain.csproj": {
+    "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Furkan Şahin\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Domain\\obj\\",
+        "projectPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\HUAWEİ\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Furkan Şahin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HUAWEİ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

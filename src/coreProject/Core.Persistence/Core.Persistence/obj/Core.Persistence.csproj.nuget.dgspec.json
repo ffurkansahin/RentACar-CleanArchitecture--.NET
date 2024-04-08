@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Core.Persistence.csproj": {}
+    "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Persistence\\Core.Persistence.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Core.Persistence.csproj": {
+    "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Persistence\\Core.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Core.Persistence.csproj",
+        "projectUniqueName": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Persistence\\Core.Persistence.csproj",
         "projectName": "Core.Persistence",
-        "projectPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\Core.Persistence.csproj",
-        "packagesPath": "C:\\Users\\Furkan Şahin\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\corePackages\\Core.Persistence\\Core.Persistence\\obj\\",
+        "projectPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Persistence\\Core.Persistence.csproj",
+        "packagesPath": "C:\\Users\\HUAWEİ\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Furkan Şahin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HUAWEİ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

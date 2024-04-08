@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "67/vEZ16/b/KJANT4GknWCHCdtWMclOrxb174dsUFg1MRxfUWZAheGkbInswk0R9cJf7fa/B/thMrbaNjmnuTg==",
+  "dgSpecHash": "E6bMhEs2DGVSylmNOK9J2dmh2H7Vfv8/maB03XOdsBlAI156X3+LWviAcfcPMHwLbAcqYsTtK1auN8IJ3/2MLg==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\src\\rentACar\\RentACar\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
