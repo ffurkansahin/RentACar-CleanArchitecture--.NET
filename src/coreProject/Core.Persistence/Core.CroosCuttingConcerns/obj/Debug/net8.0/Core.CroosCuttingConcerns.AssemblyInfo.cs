@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Core.CroosCuttingConcerns")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed423ce6916a80300c2456a55622fb467ec749ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebbca9163d6845c18df32be3657f14a21a24b58e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core.CroosCuttingConcerns")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core.CroosCuttingConcerns")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

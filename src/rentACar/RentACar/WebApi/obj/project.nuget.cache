@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "k3RvuYM57MzL7vsrdmpa7XJ3Fslei1KfXWWfXUl+2umuYYXsO5feky4D7crJUMGNI2d4hNmDonJgIQimmoRBbg==",
+  "dgSpecHash": "DjdIf2Fy0rN9qOuqy2ALrv/sQt14k43AKYQhNovS7mSAibA2AsW23wIdfOwtf0muBT/oK7PLkFpBuyBFAiBvYA==",
   "success": true,
   "projectFilePath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\HUAWEİ\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\HUAWEİ\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

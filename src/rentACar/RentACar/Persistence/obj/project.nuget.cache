@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "YuXKjTb6xiqyvXO5/c1LJ1kb2zHEqtvNaOk9tE/PwRnxvuha+AaqhUROXtZ+bG6Q/dI0YYEdxMvgc+aY7xp8SA==",
+  "dgSpecHash": "+0ReE9nfFyhdsP6NLDUzAWquAJXttybSVP/xsLjnszTWe3p9I05uiJ6W/z9x56RNFDW7IS6Cu24mq7wucmdTSA==",
   "success": true,
   "projectFilePath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\HUAWEİ\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\HUAWEİ\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

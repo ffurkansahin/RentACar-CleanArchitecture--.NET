@@ -1,4 +1,7 @@
-﻿using Core.Application.Rules;
+﻿using Core.Application.Pipelines.Transactions;
+using Core.Application.Pipelines.Validations;
+using Core.Application.Rules;
+using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -15,12 +18,16 @@ public static class ApplicationServiceRegistiration
 	public static IServiceCollection AddAplicationServices(this IServiceCollection services)
 	{
 		services.AddAutoMapper(Assembly.GetExecutingAssembly());
+		services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
 
 		services.AddSubClassesOfType(Assembly.GetExecutingAssembly(), typeof(BaseBusinessRules));
 
 		services.AddMediatR(configuration =>
 		{
 			configuration.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly());
+
+			configuration.AddOpenBehavior(typeof(RequestValidationBehavior<,>));
+			configuration.AddOpenBehavior(typeof(TransactionScopeBehavior<,>));
 		});
 
 		return services;

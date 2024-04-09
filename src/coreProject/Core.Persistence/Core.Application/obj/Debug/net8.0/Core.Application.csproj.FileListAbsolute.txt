@@ -30,3 +30,5 @@ D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET
 D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\coreProject\Core.Persistence\Core.Application\obj\Debug\net8.0\refint\Core.Application.dll
 D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\coreProject\Core.Persistence\Core.Application\obj\Debug\net8.0\Core.Application.pdb
 D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\coreProject\Core.Persistence\Core.Application\obj\Debug\net8.0\ref\Core.Application.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\coreProject\Core.Persistence\Core.Application\bin\Debug\net8.0\Core.CroosCuttingConcerns.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\coreProject\Core.Persistence\Core.Application\bin\Debug\net8.0\Core.CroosCuttingConcerns.pdb
