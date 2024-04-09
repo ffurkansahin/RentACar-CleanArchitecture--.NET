@@ -300,3 +300,6 @@ D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET
 D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
 D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Core.CroosCuttingConcerns.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Core.CroosCuttingConcerns.pdb

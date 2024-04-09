@@ -42,3 +42,5 @@ D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET
 D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\Persistence\bin\Debug\net8.0\Core.Application.pdb
 D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
 D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\Persistence\bin\Debug\net8.0\Core.CroosCuttingConcerns.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\rentACar\RentACar\Persistence\bin\Debug\net8.0\Core.CroosCuttingConcerns.pdb

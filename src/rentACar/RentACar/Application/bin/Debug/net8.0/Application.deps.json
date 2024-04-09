@@ -13,6 +13,7 @@
           "MediatR": "12.2.0",
           "Microsoft.EntityFrameworkCore": "8.0.3",
           "Core.Application": "1.0.0.0",
+          "Core.CroosCuttingConcerns": "1.0.0.0",
           "Core.Persistence": "1.0.0.0"
         },
         "runtime": {
@@ -175,6 +176,14 @@
           }
         }
       },
+      "Core.CroosCuttingConcerns/1.0.0.0": {
+        "runtime": {
+          "Core.CroosCuttingConcerns.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Core.Persistence/1.0.0.0": {
         "runtime": {
           "Core.Persistence.dll": {
@@ -295,6 +304,11 @@
       "sha512": ""
     },
     "Core.Application/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Core.CroosCuttingConcerns/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

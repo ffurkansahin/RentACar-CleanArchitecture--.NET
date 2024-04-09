@@ -12,7 +12,10 @@
           "Microsoft.EntityFrameworkCore.Tools": "8.0.3",
           "Persistence": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0",
-          "Core.Application": "1.0.0.0"
+          "System.Linq.Dynamic.Core": "1.3.10",
+          "Core.Application": "1.0.0.0",
+          "Core.CroosCuttingConcerns": "1.0.0.0",
+          "Core.Persistence": "1.0.0.0"
         },
         "runtime": {
           "WebApi.dll": {}
@@ -829,6 +832,14 @@
         }
       },
       "System.IO.Pipelines/6.0.3": {},
+      "System.Linq.Dynamic.Core/1.3.10": {
+        "runtime": {
+          "lib/net8.0/System.Linq.Dynamic.Core.dll": {
+            "assemblyVersion": "1.3.10.0",
+            "fileVersion": "1.3.10.0"
+          }
+        }
+      },
       "System.Memory/4.5.4": {},
       "System.Memory.Data/1.0.2": {
         "dependencies": {
@@ -980,6 +991,14 @@
       "Core.Application/1.0.0.0": {
         "runtime": {
           "Core.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Core.CroosCuttingConcerns/1.0.0.0": {
+        "runtime": {
+          "Core.CroosCuttingConcerns.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1470,6 +1489,13 @@
       "path": "system.io.pipelines/6.0.3",
       "hashPath": "system.io.pipelines.6.0.3.nupkg.sha512"
     },
+    "System.Linq.Dynamic.Core/1.3.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xkMCropqN0WTgPuPbIlYgXss1KAyjd+8VRbx/BFh57yUOi5LylljIpK0iGa58ziXr+xJqzmcaRGtKHlsI5C4tg==",
+      "path": "system.linq.dynamic.core/1.3.10",
+      "hashPath": "system.linq.dynamic.core.1.3.10.nupkg.sha512"
+    },
     "System.Memory/4.5.4": {
       "type": "package",
       "serviceable": true,
@@ -1619,6 +1645,11 @@
       "sha512": ""
     },
     "Core.Application/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Core.CroosCuttingConcerns/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
