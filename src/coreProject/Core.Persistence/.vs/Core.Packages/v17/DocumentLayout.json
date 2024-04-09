@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.crooscuttingconcerns\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|solutionrelative:core.crooscuttingconcerns\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.crooscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|solutionrelative:core.crooscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.crooscuttingconcerns\\exceptions\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|solutionrelative:core.crooscuttingconcerns\\exceptions\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.crooscuttingconcerns\\exceptions\\handlers\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|solutionrelative:core.crooscuttingconcerns\\exceptions\\handlers\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.crooscuttingconcerns\\exceptions\\httpproblemdetails\\businessproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|solutionrelative:core.crooscuttingconcerns\\exceptions\\httpproblemdetails\\businessproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.crooscuttingconcerns\\exceptions\\extensions\\problemdetailsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|solutionrelative:core.crooscuttingconcerns\\exceptions\\extensions\\problemdetailsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.application\\rules\\basebusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\rules\\basebusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +46,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1248,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Core.CroosCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "Core.CroosCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:41:15.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Core.CroosCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Core.CroosCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAawBUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:31:43.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessProblemDetails.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "RelativeDocumentMoniker": "Core.CroosCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "RelativeToolTip": "Core.CroosCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:19:10.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HttpExceptionHandler.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Core.CroosCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "RelativeToolTip": "Core.CroosCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:15:00.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProblemDetailsExtensions.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
+              "RelativeDocumentMoniker": "Core.CroosCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
+              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
+              "RelativeToolTip": "Core.CroosCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:24:52.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Core.CroosCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "RelativeToolTip": "Core.CroosCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:09:55.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "BaseBusinessRules.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Application\\Rules\\BaseBusinessRules.cs",
               "RelativeDocumentMoniker": "Core.Application\\Rules\\BaseBusinessRules.cs",
@@ -39,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "BusinessException.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
               "RelativeDocumentMoniker": "Core.CroosCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
@@ -47,12 +149,11 @@
               "RelativeToolTip": "Core.CroosCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T08:24:23.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T08:24:23.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Filter.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Persistence\\Dynamic\\Filter.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\Filter.cs",
@@ -60,8 +161,7 @@
               "RelativeToolTip": "Core.Persistence\\Dynamic\\Filter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T07:30:27.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T07:30:27.745Z"
             }
           ]
         },

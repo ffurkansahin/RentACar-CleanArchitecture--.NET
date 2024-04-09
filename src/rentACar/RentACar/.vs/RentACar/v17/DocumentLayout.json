@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ADF052C5-3497-4727-BEEB-464FE653D19F}|WebApi\\WebApi.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\rentacar\\rentacar\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF052C5-3497-4727-BEEB-464FE653D19F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3D672CA-B4FC-411A-93C1-E00221CC83B1}|Application\\Application.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\rentacar\\rentacar\\application\\features\\brands\\rules\\brandbusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3D672CA-B4FC-411A-93C1-E00221CC83B1}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\rules\\brandbusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -66,11 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1248,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:43:07.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ApplicationServiceRegistiration.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Application\\ApplicationServiceRegistiration.cs",
               "RelativeDocumentMoniker": "Application\\ApplicationServiceRegistiration.cs",
@@ -78,12 +95,11 @@
               "RelativeToolTip": "Application\\ApplicationServiceRegistiration.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAABIAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T08:34:19.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T08:34:19.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BrandsMessages.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Constants\\BrandsMessages.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Brands\\Constants\\BrandsMessages.cs",
@@ -91,12 +107,11 @@
               "RelativeToolTip": "Application\\Features\\Brands\\Constants\\BrandsMessages.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T08:20:25.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T08:20:25.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BrandBusinessRules.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Rules\\BrandBusinessRules.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Brands\\Rules\\BrandBusinessRules.cs",
@@ -109,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "GetListByDynamicModelListItemDto.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Application\\Features\\Models\\Queries\\GetListByDynamic\\GetListByDynamicModelListItemDto.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Models\\Queries\\GetListByDynamic\\GetListByDynamicModelListItemDto.cs",
@@ -117,12 +132,11 @@
               "RelativeToolTip": "Application\\Features\\Models\\Queries\\GetListByDynamic\\GetListByDynamicModelListItemDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T07:10:27.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T07:10:27.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CreateBrandCommand.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
@@ -130,12 +144,11 @@
               "RelativeToolTip": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAEwCAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T14:32:57.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T14:32:57.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GetListByDynamicModelQuery.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Application\\Features\\Models\\Queries\\GetListByDynamic\\GetListByDynamicModelQuery.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Models\\Queries\\GetListByDynamic\\GetListByDynamicModelQuery.cs",
@@ -143,12 +156,11 @@
               "RelativeToolTip": "Application\\Features\\Models\\Queries\\GetListByDynamic\\GetListByDynamicModelQuery.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAhwCcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T07:11:10.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T07:11:10.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ModelsController.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\WebApi\\Controllers\\ModelsController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\ModelsController.cs",
@@ -156,12 +168,11 @@
               "RelativeToolTip": "WebApi\\Controllers\\ModelsController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAAA4AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T18:27:23.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T18:27:23.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MappingProfiles.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Application\\Features\\Models\\Profiles\\MappingProfiles.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Models\\Profiles\\MappingProfiles.cs",
@@ -169,12 +180,11 @@
               "RelativeToolTip": "Application\\Features\\Models\\Profiles\\MappingProfiles.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAABgAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T18:22:01.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T18:22:01.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GetListModelQuery.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Application\\Features\\Models\\Queries\\GetList\\GetListModelQuery.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Models\\Queries\\GetList\\GetListModelQuery.cs",
@@ -182,12 +192,11 @@
               "RelativeToolTip": "Application\\Features\\Models\\Queries\\GetList\\GetListModelQuery.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAawBAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T18:13:16.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T18:13:16.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "GetListModelListItemDto.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Application\\Features\\Models\\Queries\\GetList\\GetListModelListItemDto.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Models\\Queries\\GetList\\GetListModelListItemDto.cs",
@@ -195,12 +204,11 @@
               "RelativeToolTip": "Application\\Features\\Models\\Queries\\GetList\\GetListModelListItemDto.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T18:10:41.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T18:10:41.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PersistenceServiceRegistration.cs",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\Persistence\\PersistenceServiceRegistration.cs",
               "RelativeDocumentMoniker": "Persistence\\PersistenceServiceRegistration.cs",
@@ -208,12 +216,11 @@
               "RelativeToolTip": "Persistence\\PersistenceServiceRegistration.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAhwBUAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T18:31:14.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T18:31:14.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "WebApi\\appsettings.json",
@@ -221,12 +228,11 @@
               "RelativeToolTip": "WebApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-08T14:47:31.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T14:47:31.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "WebApi.http",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\WebApi\\WebApi.http",
               "RelativeDocumentMoniker": "WebApi\\WebApi.http",
@@ -234,12 +240,11 @@
               "RelativeToolTip": "WebApi\\WebApi.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-04-08T14:47:30.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T14:47:30.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "WebApi.csproj",
               "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
               "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
@@ -247,8 +252,7 @@
               "RelativeToolTip": "WebApi\\WebApi.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-08T14:32:02.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T14:32:02.54Z"
             }
           ]
         },

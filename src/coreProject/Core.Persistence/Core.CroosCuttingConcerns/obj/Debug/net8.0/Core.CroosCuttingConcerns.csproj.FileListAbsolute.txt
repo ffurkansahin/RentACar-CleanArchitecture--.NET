@@ -10,3 +10,4 @@ D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET
 D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\coreProject\Core.Persistence\Core.CroosCuttingConcerns\obj\Debug\net8.0\refint\Core.CroosCuttingConcerns.dll
 D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\coreProject\Core.Persistence\Core.CroosCuttingConcerns\obj\Debug\net8.0\Core.CroosCuttingConcerns.pdb
 D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\coreProject\Core.Persistence\Core.CroosCuttingConcerns\obj\Debug\net8.0\ref\Core.CroosCuttingConcerns.dll
+D:\Visual Studio Code Projects\ArchitectureDemo\RentACar-CleanArchitecture--.NET\src\coreProject\Core.Persistence\Core.CroosCuttingConcerns\obj\Debug\net8.0\Core.CroosCuttingConcerns.csproj.AssemblyReference.cache
