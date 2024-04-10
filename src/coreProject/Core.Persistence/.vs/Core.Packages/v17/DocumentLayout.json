@@ -3,60 +3,12 @@
   "WorkspaceRootPath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.application\\pipelines\\transactions\\transactionscopebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\transactions\\transactionscopebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.application\\pipelines\\caching\\cachingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\caching\\cachingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.application\\pipelines\\transactions\\itransactionalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\transactions\\itransactionalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.crooscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|solutionrelative:core.crooscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.crooscuttingconcerns\\exceptions\\httpproblemdetails\\validationproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|solutionrelative:core.crooscuttingconcerns\\exceptions\\httpproblemdetails\\validationproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.crooscuttingconcerns\\exceptions\\httpproblemdetails\\businessproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|solutionrelative:core.crooscuttingconcerns\\exceptions\\httpproblemdetails\\businessproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.crooscuttingconcerns\\exceptions\\handlers\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|solutionrelative:core.crooscuttingconcerns\\exceptions\\handlers\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.application\\pipelines\\validations\\requestvalidationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\validations\\requestvalidationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.crooscuttingconcerns\\exceptions\\types\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|solutionrelative:core.crooscuttingconcerns\\exceptions\\types\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.crooscuttingconcerns\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|solutionrelative:core.crooscuttingconcerns\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.crooscuttingconcerns\\exceptions\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|solutionrelative:core.crooscuttingconcerns\\exceptions\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.crooscuttingconcerns\\exceptions\\extensions\\problemdetailsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|solutionrelative:core.crooscuttingconcerns\\exceptions\\extensions\\problemdetailsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.application\\rules\\basebusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\rules\\basebusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.crooscuttingconcerns\\exceptions\\types\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{636A4254-7AC4-4C77-B7B3-EF375BF2ADCB}|Core.CroosCuttingConcerns\\Core.CroosCuttingConcerns.csproj|solutionrelative:core.crooscuttingconcerns\\exceptions\\types\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3D771F-3B4F-41EB-963C-60DE145B65B6}|Core.Persistence\\Core.Persistence.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.persistence\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3D771F-3B4F-41EB-963C-60DE145B65B6}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|d:\\visual studio code projects\\architecturedemo\\rentacar-cleanarchitecture--.net\\src\\coreproject\\core.persistence\\core.application\\pipelines\\caching\\icachablerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D719C4-F8B0-47E8-99EA-0A8C60E72CEA}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\caching\\icachablerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,173 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TransactionScopeBehavior.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Application\\Pipelines\\Transactions\\TransactionScopeBehavior.cs",
-              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Transactions\\TransactionScopeBehavior.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Application\\Pipelines\\Transactions\\TransactionScopeBehavior.cs",
-              "RelativeToolTip": "Core.Application\\Pipelines\\Transactions\\TransactionScopeBehavior.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAAAWAAAA",
+              "Title": "CachingBehavior.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Application\\Pipelines\\Caching\\CachingBehavior.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Caching\\CachingBehavior.cs",
+              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Application\\Pipelines\\Caching\\CachingBehavior.cs",
+              "RelativeToolTip": "Core.Application\\Pipelines\\Caching\\CachingBehavior.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAqwDAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T20:31:42.33Z",
+              "WhenOpened": "2024-04-10T10:54:14.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ITransactionalRequest.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Application\\Pipelines\\Transactions\\ITransactionalRequest.cs",
-              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Transactions\\ITransactionalRequest.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Application\\Pipelines\\Transactions\\ITransactionalRequest.cs",
-              "RelativeToolTip": "Core.Application\\Pipelines\\Transactions\\ITransactionalRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Title": "ICachableRequest.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Application\\Pipelines\\Caching\\ICachableRequest.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Caching\\ICachableRequest.cs",
+              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Application\\Pipelines\\Caching\\ICachableRequest.cs",
+              "RelativeToolTip": "Core.Application\\Pipelines\\Caching\\ICachableRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T20:30:49.137Z",
+              "WhenOpened": "2024-04-10T10:54:10.774Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ValidationProblemDetails.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
-              "RelativeDocumentMoniker": "Core.CroosCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
-              "RelativeToolTip": "Core.CroosCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T12:37:08.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ValidationException.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
-              "RelativeDocumentMoniker": "Core.CroosCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
-              "RelativeToolTip": "Core.CroosCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAgwBIAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T12:02:59.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RequestValidationBehavior.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Application\\Pipelines\\Validations\\RequestValidationBehavior.cs",
-              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Validations\\RequestValidationBehavior.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Application\\Pipelines\\Validations\\RequestValidationBehavior.cs",
-              "RelativeToolTip": "Core.Application\\Pipelines\\Validations\\RequestValidationBehavior.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAlwCYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T11:45:09.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ExceptionHandler.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
-              "RelativeDocumentMoniker": "Core.CroosCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
-              "RelativeToolTip": "Core.CroosCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBMAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T10:09:55.784Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HttpExceptionHandler.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
-              "RelativeDocumentMoniker": "Core.CroosCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
-              "RelativeToolTip": "Core.CroosCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAawCQAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T10:15:00.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BusinessProblemDetails.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
-              "RelativeDocumentMoniker": "Core.CroosCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
-              "RelativeToolTip": "Core.CroosCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T10:19:10.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "Core.CroosCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "Core.CroosCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAEwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T10:31:43.279Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ExceptionMiddlewareExtensions.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
-              "RelativeDocumentMoniker": "Core.CroosCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
-              "RelativeToolTip": "Core.CroosCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAB/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T10:41:15.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProblemDetailsExtensions.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
-              "RelativeDocumentMoniker": "Core.CroosCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
-              "RelativeToolTip": "Core.CroosCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T10:24:52.16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BaseBusinessRules.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Application\\Rules\\BaseBusinessRules.cs",
-              "RelativeDocumentMoniker": "Core.Application\\Rules\\BaseBusinessRules.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Application\\Rules\\BaseBusinessRules.cs",
-              "RelativeToolTip": "Core.Application\\Rules\\BaseBusinessRules.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T08:37:15.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BusinessException.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
-              "RelativeDocumentMoniker": "Core.CroosCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.CroosCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
-              "RelativeToolTip": "Core.CroosCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T08:24:23.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Filter.cs",
-              "DocumentMoniker": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Persistence\\Dynamic\\Filter.cs",
-              "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\Filter.cs",
-              "ToolTip": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Persistence\\Dynamic\\Filter.cs",
-              "RelativeToolTip": "Core.Persistence\\Dynamic\\Filter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T07:30:27.745Z"
             }
           ]
         },

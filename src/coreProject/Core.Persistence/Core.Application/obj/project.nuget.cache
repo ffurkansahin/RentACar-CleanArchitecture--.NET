@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "18pIAoZDdz0DZKcKuelUnuDeEYaUEnM6Xee1ONl+HLWNlta6KqCGrE8a+c/JKEJVaHWRXvNtLbDcw6ChYzGycQ==",
+  "dgSpecHash": "MH4JciOxYytlBwX45TA2YxvoZEUyT538WofhI0gIPEVMUy65jI/IBXHYLzlZ/N5y/Pbi7Sa7XaoOPf/PkxNreA==",
   "success": true,
   "projectFilePath": "D:\\Visual Studio Code Projects\\ArchitectureDemo\\RentACar-CleanArchitecture--.NET\\src\\coreProject\\Core.Persistence\\Core.Application\\Core.Application.csproj",
   "expectedPackageFiles": [
@@ -36,7 +36,8 @@
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver.design\\1.1.6\\microsoft.entityframeworkcore.sqlserver.design.1.1.6.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
-    "C:\\Users\\HUAWEİ\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.2.0\\microsoft.extensions.configuration.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\HUAWEİ\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\HUAWEİ\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.1\\microsoft.extensions.configuration.binder.8.0.1.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\HUAWEİ\\.nuget\\packages\\microsoft.extensions.dependencymodel\\2.1.0\\microsoft.extensions.dependencymodel.2.1.0.nupkg.sha512",
